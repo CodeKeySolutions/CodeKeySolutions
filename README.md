@@ -1,17 +1,29 @@
-<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=CodeKeySolutions&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="CodeKeySolutions's GitHub Stats" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeKeySolutions&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="CodeKeySolutions's Most Used Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeKeySolutions&theme=xcode&hide_border=true" alt="Activity graph">
-</div>
+<h1 align="center">Hi 👋, I'm CodeKeySolutions AkA Jordan Daubinet</h1>
+<h3 align="center">A passionate web developer from the netherlands.</h3>
 
-  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+- 🔭 I’m currently working [Bloodbullets](https://bloodbullets.com)
 
-  <div style="text-align: center;">
-    <h2>👋 About Me</h2>
-    <p>📫 You can contact me through X, or follow me on GitHub to get the latest updates on my work.</p>
-  </div>
+- 🌱 I’m currently learning **Laravel**
 
-  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+- 💬 Ask me about **PHP**
 
-</div>
+- 📫 How to reach me **info@bloodbullets.com**
+
+- ⚡ Fun fact **Hello world!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/codekeysolution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codekeysolution" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jordan-daubinet-92ab39282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jordan-daubinet-92ab39282/" height="30" width="40" /></a>
+<a href="https://discord.gg/FMV7vhYw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FMV7vhYw" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/anykeys"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="anykeys" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codekeysolutions&show_icons=true&locale=en&layout=compact" alt="codekeysolutions" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codekeysolutions&show_icons=true&locale=en" alt="codekeysolutions" /></p>
